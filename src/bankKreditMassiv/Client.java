@@ -1,4 +1,4 @@
-package banlKreditMassiv;
+package bankKreditMassiv;
 
  public class Client {
     String name;
